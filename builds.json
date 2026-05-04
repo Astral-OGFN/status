@@ -1,0 +1,12 @@
+{
+  "builds": [
+    {
+      "id": "fortnite-og",
+      "name": "Fortnite",
+      "version": "Season 4",
+      "image": "https://ton-site.com/images/fortnite.png",
+      "size": "8.4 GB",
+      "downloadUrl": "https://ton-site.com/builds/fortnite-og.zip"
+    }
+  ]
+}
